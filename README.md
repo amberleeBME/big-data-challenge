@@ -12,5 +12,7 @@ Create DataFrames to match production-ready tables from two big Amazon customer 
 
 After dropping N/A values the jewelry and grocery datasets contained 1,767,394 and 2,402,212 records, respectively.
 
+Total, there were 1,069,222 unique customer ids in the jewelry dataset.
+
 ## Database
 ![Postgres Screenshot](images/postgress_SS.png)
